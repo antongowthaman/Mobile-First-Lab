@@ -34,6 +34,7 @@ header,
 .mainNav {
 	padding: 8px 0;
 	height: auto;
+	display: block;
    }
    .mainNav .row ul {
 	display: flex;
